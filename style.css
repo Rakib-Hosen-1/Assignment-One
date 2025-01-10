@@ -1,0 +1,56 @@
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+/*===========margin left-right============*/
+*{                              
+    margin: 10px 20px 0 20px;
+    
+}
+
+/*=========== Nav-bar ===========*/
+
+.signup-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.explore-title h2{
+    font-size: 40px;
+}
+.explore-title h3{
+    opacity: 50%;
+}
+.s-btn{
+    width: 110px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #006A50;
+    border: solid;
+    border-radius: 10px;
+    border-color: #006A50;
+    padding: 5px 10px;
+}
+.explore-bd{
+    display: flex;
+    align-items: center;
+    background-color: #C6E4D6;
+    border-radius: 15px;
+    padding: 30px 20px 30px 20px;
+}
+.btn-explore{
+    width: 200px;
+    height: 45px;
+    padding: 15px;
+    background: #006A50;
+    border: none;
+    color: white;
+    font-weight: 500;
+    margin-top: 20px;
+    border-radius: 5px;
+}
