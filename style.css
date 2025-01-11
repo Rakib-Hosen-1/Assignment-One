@@ -9,7 +9,6 @@
 .primary-btn{
     height: 45px;
     width: 110px;
-    
 }
 
 
@@ -169,4 +168,14 @@
     border-radius: 5%;
     color: white;
     font-weight: 400;
+}
+
+/* ======== Donate Section ========== */
+.donate-title{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 80px;
+}
+.donate-title p{
+    font-size: 24px;
 }
